@@ -2,7 +2,7 @@
 
 instructions:
 
-copy the comands and paste it on your terminal:
+copy the commands and paste it on your terminal:
 
 git clone https://github.com/junaidkaratt/Book-Management-System.git<br>
 cd Book-Management-System<br>
