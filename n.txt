@@ -1,7 +1,0 @@
-Method	    URI	    Controller Method   	Route Name
-GET     	/books	    index	        books.index
-GET	    /books/create	create	        books.create
-POST	    /books	     store    	      books.store
-GET 	/books/{book}/edit	edit	        books.edit
-PUT	    /books/{book}	update      	books.update
-DELETE	/books/{book}	destroy	        books.destroy   
